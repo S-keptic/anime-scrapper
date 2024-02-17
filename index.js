@@ -4,7 +4,7 @@ const cheerio = require('cheerio')
 const fs = require("fs")
 
 
-const URLS = [
+const URLS = [ 
 
     {
         url: "https://www.imdb.com/title/tt1910272/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_steins%2520gate",
