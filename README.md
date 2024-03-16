@@ -2,7 +2,7 @@ This project is a web scraping script written in Node.js for extracting data fro
 Project Structure
 
     index.js: The main script containing the web scraping logic.
-    data.json: The output JSON file where the scraped data is stored.
+    data.json: The output JSON file where the scraped data is stored. 
     node_modules/: Directory containing Node.js modules (not included in the repository).
     package.json: Node.js project configuration file.
     README.md: Documentation file for the project.
